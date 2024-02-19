@@ -1,0 +1,18 @@
+
+button {
+    padding: 0.5em;
+    border-radius: 12px;
+    background-color: #B8E2F2;
+}
+
+span.cell {
+    background-color: #f5deb3;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+}
